@@ -97,11 +97,9 @@
 		815BDDCD1FE31116000B8F15 /* CollectionViews-Exercise */ = {
 			isa = PBXGroup;
 			children = (
-				815BDDCE1FE31116000B8F15 /* AppDelegate.swift */,
+				815BDDFC1FE31121000B8F15 /* Supporting Files */,
 				815BDDD01FE31116000B8F15 /* ViewController.swift */,
 				815BDDD21FE31116000B8F15 /* Main.storyboard */,
-				815BDDD51FE31116000B8F15 /* Assets.xcassets */,
-				815BDDD71FE31116000B8F15 /* LaunchScreen.storyboard */,
 				815BDDDA1FE31116000B8F15 /* Info.plist */,
 			);
 			path = "CollectionViews-Exercise";
@@ -123,6 +121,16 @@
 				815BDDF01FE31116000B8F15 /* Info.plist */,
 			);
 			path = "CollectionViews-ExerciseUITests";
+			sourceTree = "<group>";
+		};
+		815BDDFC1FE31121000B8F15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				815BDDCE1FE31116000B8F15 /* AppDelegate.swift */,
+				815BDDD51FE31116000B8F15 /* Assets.xcassets */,
+				815BDDD71FE31116000B8F15 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
